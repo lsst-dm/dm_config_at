@@ -1,3 +1,5 @@
-tsXMLVersion: ManCtrl_MPD_AuxTel
-tsSALVersion: 3.7.1
-l1dmRepoTag: V1.4a-ats_turnkey_system
+settingsVersion: 2.0
+xmlVersion: 4.6
+salVersion: 4.0.0
+openSpliceVersion: 6.9.0
+cscVersion: 1.0.0-rc9
